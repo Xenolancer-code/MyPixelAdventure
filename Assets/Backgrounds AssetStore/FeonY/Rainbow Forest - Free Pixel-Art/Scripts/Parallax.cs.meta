@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 404f3026f2abc4843a2b460694d7cfad
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270762
+  packageName: Rainbow Forest - Free Pixel-Art
+  packageVersion: 1.0.1
+  assetPath: Assets/FeonY/Rainbow Forest - Free Pixel-Art/Scripts/Parallax.cs
+  uploadId: 664110
