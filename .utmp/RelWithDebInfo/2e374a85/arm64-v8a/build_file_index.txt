@@ -1,0 +1,2 @@
+C:\Developer\Unity\MyPixelAdventure\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Developer\Unity\MyPixelAdventure\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\FramePacing\CMakeLists.txt

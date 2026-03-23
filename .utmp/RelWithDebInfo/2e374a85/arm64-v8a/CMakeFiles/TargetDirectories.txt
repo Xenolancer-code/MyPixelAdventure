@@ -1,0 +1,5 @@
+C:/Developer/Unity/MyPixelAdventure/.utmp/RelWithDebInfo/2e374a85/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Developer/Unity/MyPixelAdventure/.utmp/RelWithDebInfo/2e374a85/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Developer/Unity/MyPixelAdventure/.utmp/RelWithDebInfo/2e374a85/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Developer/Unity/MyPixelAdventure/.utmp/RelWithDebInfo/2e374a85/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Developer/Unity/MyPixelAdventure/.utmp/RelWithDebInfo/2e374a85/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
