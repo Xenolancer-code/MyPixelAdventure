@@ -52,9 +52,7 @@
     <Compile Include="Assets\Scripts\EnemyType1Follower.cs" />
     <Compile Include="Assets\Scripts\PlayerManager.cs" />
     <Compile Include="Assets\Scripts\Parallax.cs" />
-    <Compile Include="Assets\Backgrounds AssetStore\FeonY\Rainbow Forest - Free Pixel-Art\Scripts\Parallax.cs" />
     <Compile Include="Assets\Scripts\LoadScene.cs" />
-    <Compile Include="Assets\Backgrounds AssetStore\FeonY\Rainbow Forest - Free Pixel-Art\Scripts\CameraController.cs" />
     <Compile Include="Assets\Scripts\CollectibleManager.cs" />
     <Compile Include="Assets\Scripts\SoundManager.cs" />
     <Compile Include="Assets\Scripts\ItemCollector.cs" />
