@@ -11,6 +11,7 @@ TagManager:
   - Enemy
   - Death
   - Bullet
+  - Ground
   layers:
   - Default
   - TransparentFX
