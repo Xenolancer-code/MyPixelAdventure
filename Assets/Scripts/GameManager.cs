@@ -51,14 +51,8 @@ public class GameManager : MonoBehaviour {
     }
 
     private bool IsMobile()
-    {
-    #if UNITY_EDITOR
-            return false; 
-    #elif UNITY_ANDROID || UNITY_IOS
-            return true;
-    #else
-            return false;
-    #endif
+    { 
+        return true;
     }
 
     // Llámalo también al cargar cada escena
