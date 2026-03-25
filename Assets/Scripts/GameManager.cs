@@ -17,8 +17,8 @@ public class GameManager : MonoBehaviour {
     public bool isLevelCompleted = false;
     public bool isGameCompleted = false;
 
-    [SerializeField] private GameObject mobileControlsPrefab;
-    private GameObject mobileControlsInstance;
+   // [SerializeField] private GameObject mobileControlsPrefab;
+    ///private GameObject mobileControlsInstance;
 
     [Header("Configuració d'escenes")]
     [Tooltip("Noms exactes de les escenes que usen la música de menú")]
@@ -76,25 +76,25 @@ public class GameManager : MonoBehaviour {
         bool isMobile = IsMobile(); // ← canviat
         bool isGameScene = IsGameScene(SceneManager.GetActiveScene().name);
 
-        if (isMobile && isGameScene)
-        {
-            if (mobileControlsInstance == null)
-            {
-                Canvas sceneCanvas = FindFirstObjectByType<Canvas>();
-                if (sceneCanvas != null)
-                {
-                    mobileControlsInstance = Instantiate(mobileControlsPrefab, sceneCanvas.transform);
-                }
-            }
-        }
-        else
-        {
-            if (mobileControlsInstance != null)
-            {
-                Destroy(mobileControlsInstance);
-                mobileControlsInstance = null;
-            }
-        }
+        // if (isMobile && isGameScene)
+        // {
+        //     if (mobileControlsInstance == null)
+        //     {
+        //         Canvas sceneCanvas = FindFirstObjectByType<Canvas>();
+        //         if (sceneCanvas != null)
+        //         {
+        //             mobileControlsInstance = Instantiate(mobileControlsPrefab, sceneCanvas.transform);
+        //         }
+        //     }
+        // }
+        // else
+        // {
+        //     if (mobileControlsInstance != null)
+        //     {
+        //         Destroy(mobileControlsInstance);
+        //         mobileControlsInstance = null;
+        //     }
+        // }
     }
 
     private bool IsGameScene(string sceneName)

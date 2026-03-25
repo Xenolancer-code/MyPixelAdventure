@@ -1,12 +1,5 @@
 fileFormatVersion: 2
-guid: 0ceb3b7f07f8bff499799cb7cfa69fcd
-AssetOrigin:
-  serializedVersion: 1
-  productId: 205812
-  packageName: Free 2D Cartoon Parallax Background
-  packageVersion: 1.0
-  assetPath: Assets/Free 2D Cartoon Parallax Background/3_Graveyard/Layer_4.png
-  uploadId: 484396
+guid: f4704cafdedaf604797a251cd8240599
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
