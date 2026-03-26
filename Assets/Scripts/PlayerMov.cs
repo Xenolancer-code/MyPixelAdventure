@@ -89,7 +89,7 @@ public class PlayerMov : MonoBehaviour
         if (!isPlayerReady) return;
         jumpBufferCounter = jumpBufferTime;
     }
-
+    //AudioManager.I.PlaySound(SoundName.SlashPlayer,transform);//Sonido de SoundLibrary
     // Botones móviles izquierda/derecha
     public void MoveLeft()   => SetMovementVector(Vector2.left);
     public void MoveRight()  => SetMovementVector(Vector2.right);

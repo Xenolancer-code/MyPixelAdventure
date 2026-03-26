@@ -283,7 +283,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7320613251964208869}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 12.7188225, y: 5.382669, z: -0.23315898}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -311,7 +311,9 @@ MonoBehaviour:
   EffectsSource: {fileID: 7314436998152236014}
   MusicSource: {fileID: 6659693970220943860}
   menuMusic: {fileID: 8300000, guid: c34497c41ea077b4b8e6262497be82fc, type: 3}
-  gameMusic: {fileID: 8300000, guid: 53945616c55e6bd4cb88b05181b4c8af, type: 3}
+  gameMusiclvl_1: {fileID: 8300000, guid: a59913d583f56ca4fa8922f12eb9d2b3, type: 3}
+  gameMusiclvl_2: {fileID: 8300000, guid: a299f9d82a844a748a8886d46ae6fd66, type: 3}
+  gameMusiclvl_3: {fileID: 8300000, guid: 05e6b7aad86570c4e94250cee485fbbc, type: 3}
   jumpFX: {fileID: 8300000, guid: c5ba5a655c926c145be8f91ccba7e4af, type: 3}
   collectedFX: {fileID: 8300000, guid: 5206eee423b7d084388a41f55e4a04a4, type: 3}
   finishedFX: {fileID: 8300000, guid: 5cdd3893bdcf2f840b2d7a63b4ee99d1, type: 3}
